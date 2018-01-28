@@ -1,0 +1,11 @@
+C:\Users\Tyler D\Desktop\School\Winter 2018\NETD\AverageUnitsShipped\AverageUnitsShipped\bin\Debug\AverageUnitsShipped.exe.config
+C:\Users\Tyler D\Desktop\School\Winter 2018\NETD\AverageUnitsShipped\AverageUnitsShipped\bin\Debug\AverageUnitsShipped.exe
+C:\Users\Tyler D\Desktop\School\Winter 2018\NETD\AverageUnitsShipped\AverageUnitsShipped\bin\Debug\AverageUnitsShipped.pdb
+C:\Users\Tyler D\Desktop\School\Winter 2018\NETD\AverageUnitsShipped\AverageUnitsShipped\bin\Debug\AverageUnitsShipped.xml
+C:\Users\Tyler D\Desktop\School\Winter 2018\NETD\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.vbprojResolveAssemblyReference.cache
+C:\Users\Tyler D\Desktop\School\Winter 2018\NETD\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.Form1.resources
+C:\Users\Tyler D\Desktop\School\Winter 2018\NETD\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.Resources.resources
+C:\Users\Tyler D\Desktop\School\Winter 2018\NETD\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.vbproj.GenerateResource.Cache
+C:\Users\Tyler D\Desktop\School\Winter 2018\NETD\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.exe
+C:\Users\Tyler D\Desktop\School\Winter 2018\NETD\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.xml
+C:\Users\Tyler D\Desktop\School\Winter 2018\NETD\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.pdb
